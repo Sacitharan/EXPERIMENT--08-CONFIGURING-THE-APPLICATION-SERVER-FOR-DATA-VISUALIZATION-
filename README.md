@@ -1,5 +1,6 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
- 
+## NAME : SACITHARAN.B
+## REG NO : 212220040136
 ## Aim: 
 To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: 
